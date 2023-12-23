@@ -17,6 +17,6 @@
 TBD
 
 ##Dependencies
-This code requires Python and random.  If you have Python and pip, you can get numpy via
+This code requires Python and random.  If you have Python and pip, you can get random via
 
     pip install random
